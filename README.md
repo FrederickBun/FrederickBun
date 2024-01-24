@@ -28,8 +28,18 @@
 
 <h2 align="center">Github Stars</h2>
 
-![st's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7entin&show_icons=true)
+<div align="center">
+  ![st's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7entin&show_icons=true)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se7entin&layout=compact)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se7entin&layout=compact)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=se7entin)
+<div align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=se7entin)
+</div>
+
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=se7entin)
+</div>
