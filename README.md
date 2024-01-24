@@ -29,17 +29,43 @@
 <h2 align="center">Github Stars</h2>
 
 <div align="center">
-  ![st's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7entin&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=se7entin&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/>
 </div>
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se7entin&layout=compact)
-</div>
+<br>
 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=se7entin)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se7entin&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages"/>
 </div>
 
+<br>
+
 <div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=se7entin)
+  <img src="https://github-profile-trophy.vercel.app/?username=se7entin&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Seventeen's GitHub Trophies"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{se7entin}/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<h2 align="center">《我的世界》 Hypixel服务器统计 / 《我的世界》 Hypixel伺服器統計 / Minecraft Hypixel Stats</h2>
+
+<div align="center">
+  <img width="500px" src="https://gen.plancke.io/exp/Se7en_Tin.png" alt="Se7en_Tin's Minecraft Hypixel Experience"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="500px" src="https://gen.plancke.io/achievementPoints/Se7en_Tin.png" alt="Se7en_Tin's Minecraft Hypixel Achievement Points"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://hypixel.paniek.de/signature/836577b2ec974b04a52376d876b63103/general-tooltip" alt="Hypixel Bedwars Stats"/>
 </div>
