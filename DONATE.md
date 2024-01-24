@@ -8,4 +8,4 @@
 
 ##### 直接连接 / Links
 
-<iframe src="https://afdian.net/leaflet?slug={se7entin}" width="640" scrolling="no" height="200" frameborder="0"></iframe>
+<iframe src="https://afdian.net/leaflet?slug=se7entin" width="640" scrolling="no" height="200" frameborder="0"></iframe>
