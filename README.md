@@ -9,7 +9,9 @@
 我是一名国内初中生，也是一个OI选手（C++不多说），空闲的时候会做一些开发（学习HTML，CSS，JS搭建配置网站，用Python开发一些小插件），AppleU、Unix粉。英语学习爱好者！
 
 如果你想更好的了解我，请访问以下站点：
+
 个人工作室站点：seventeen.com（搭建中）
+
 园子：cnblogs.com/se7entin
 
 哦！对了，既然都来了，就点个关注再走吧！你们对我创作的支持是我最大的动力，如果你有条件，也可以[赞助](DONATE.md)我！
@@ -19,7 +21,9 @@
 我是一名國內初中生，也是一個OI選手（C++不多說），空閒的時候會做一些開發（學習HTML，CSS，JS搭建配寘網站，用Python開發一些小挿件），AppleU、Unix粉。英語學習愛好者！
 
 如果你想更好的瞭解我，請訪問以下網站：
+
 個人工作室網站：seventeen.com（搭建中）
+
 園子：cnblogs.com/se7entin
 
 哦！ 對了，既然都來了，就點個關注再走吧！ 你們對我創作的支持是我最大的動力，如果你有條件，也可以[贊助]（DONATE.md）我！
@@ -29,7 +33,9 @@
 I am a junior high school student in China, and also an OI player. In my spare time, I will do some development (learning how to use HTML, CSS, JS to build configuration websites, and developing some small plug-ins with Python). I am a fan of AppleU and Unix. 
 
 If you want to know me better, please visit the following sites:
+
 Personal studio site: seventeen.com (under construction)
+
 Garden: cnblogs.com/se7entin
 
 If you appreciate my work, feel free to follow me on Github or donate. Thank you! 
