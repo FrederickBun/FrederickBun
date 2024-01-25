@@ -12,7 +12,7 @@
 
 个人工作室站点：seventeen.com（搭建中）
 
-园子：cnblogs.com/se7entin
+园子：<cnblogs.com/se7entin>
 
 哦！对了，既然都来了，就点个关注再走吧！你们对我创作的支持是我最大的动力，如果你有条件，也可以[赞助](DONATE.md)我！
 
@@ -24,7 +24,7 @@
 
 個人工作室網站：seventeen.com（搭建中）
 
-園子：cnblogs.com/se7entin
+園子：<cnblogs.com/se7entin>
 
 哦！ 對了，既然都來了，就點個關注再走吧！ 你們對我創作的支持是我最大的動力，如果你有條件，也可以[贊助](DONATE.md)我！
 
@@ -35,8 +35,6 @@ I am a junior high school student in China, and also an OI player. In my spare t
 If you want to know me better, please visit the following sites:
 
 Personal studio site: seventeen.com (under construction)
-
-Garden: cnblogs.com/se7entin
 
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
