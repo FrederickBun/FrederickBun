@@ -1,4 +1,4 @@
-![image](https://github.com/se7entin/Se7entin/assets/120368045/3f41953a-4820-4a28-84dd-93d7e392ac1f)"Hi, there👋"
+"Hi, there👋"
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Never+Give+Up)
 
