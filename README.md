@@ -38,6 +38,16 @@ Personal studio site: seventeen.com (under construction)
 
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
+`*fr-fr*`
+
+Je suis un élève de collège en Chine, et aussi un joueur OI. Dans mon temps libre, je vais faire du développement (apprendre à utiliser HTML, CSS, JS pour construire des sites de configuration, et développer quelques petits plug-ins avec Python). Je suis un fan d’apple d’unix.
+
+Si vous voulez mieux Me Connaître, visitez les sites suivants:
+
+Site personnel de studio: seventeen.com (en construction)
+
+Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [faire un don](DONATE.md). Merci beaucoup!
+
 <h2 align="center">Github Stars</h2>
 
 <div align="center">
