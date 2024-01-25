@@ -1,4 +1,4 @@
-"Hi, there👋"
+![image](https://github.com/se7entin/Se7entin/assets/120368045/3f41953a-4820-4a28-84dd-93d7e392ac1f)"Hi, there👋"
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Never+Give+Up)
 
@@ -82,4 +82,8 @@ If you appreciate my work, feel free to follow me on Github or donate. Thank you
 
 <div align="center">
   <img src="https://hypixel.paniek.de/signature/836577b2ec974b04a52376d876b63103/general-tooltip" alt="Hypixel Bedwars Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://hypixel.paniek.de/signature/836577b2ec974b04a52376d876b63103/skyblock/stats/0225a6dd816e4df18b4333673bfc857e" alt="Hypixel Skyblock Stats"/>
 </div>
