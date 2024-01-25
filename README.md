@@ -26,7 +26,7 @@
 
 園子：cnblogs.com/se7entin
 
-哦！ 對了，既然都來了，就點個關注再走吧！ 你們對我創作的支持是我最大的動力，如果你有條件，也可以[贊助]（DONATE.md）我！
+哦！ 對了，既然都來了，就點個關注再走吧！ 你們對我創作的支持是我最大的動力，如果你有條件，也可以[贊助](DONATE.md)我！
 
 `*en-us*`
 
@@ -38,7 +38,7 @@ Personal studio site: seventeen.com (under construction)
 
 Garden: cnblogs.com/se7entin
 
-If you appreciate my work, feel free to follow me on Github or donate. Thank you! 
+If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
 <h2 align="center">Github Stars</h2>
 
