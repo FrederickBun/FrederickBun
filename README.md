@@ -48,6 +48,16 @@ Site personnel de studio: seventeen.com (en construction)
 
 Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [faire un don](DONATE.md). Merci beaucoup!
 
+`*ja-jp*`
+
+私は中国の中学生でOI選手（C++は多くは言わない）で、暇な時に開発（HTML、CSS、JSを勉強して配置サイトを作り、Pythonでプラグインを開発する）、AppleU、Unix粉を作ります。英語学習マニア！
+
+私のことをもっと知りたいなら、次のサイトにアクセスしてください。
+
+個人スタジオサイト：seventeen.com（構築中）
+
+おお！そうだ、みんな来たからには、注目してから行きましょう。あなたたちの私の創作への支持は私の最大の原動力であり、もしあなたが条件があれば、私を[協賛すること](DONATE.md)もできます！
+
 <h2 align="center">Github Stars</h2>
 
 <div align="center">
