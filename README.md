@@ -58,6 +58,8 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 
 おお！そうだ、みんな来たからには、注目してから行きましょう。あなたたちの私の創作への支持は私の最大の原動力であり、もしあなたが条件があれば、私を[協賛すること](DONATE.md)もできます！
 
+---
+
 <h2 align="center">Github Stars</h2>
 
 <div align="center">
