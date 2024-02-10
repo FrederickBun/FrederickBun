@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Never+Give+Up)
 
-![logo v1 by jiashao](imgs/seventeen logo final@2x.svg)
+![logo v1 by jiashao](imgs/seventeen-logo-final@2x.svg)
 
 <h2 align="center">个人简介 / 個人介紹 / Self Introduce</h2>
 
