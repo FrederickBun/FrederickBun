@@ -34,7 +34,7 @@
 
 `*en-us*`
 
-I am a junior high school student in China, and also an OI player. In my spare time, I will do some development (learning how to use HTML, CSS, JS to build configuration websites, and developing some small plug-ins with Python). I am a fan of AppleU and Unix. 
+I am a junior high school student in China, and also an OIer. In my spare time, I will do some development (learning how to use HTML, CSS, JS to build configuration websites, and developing some small plug-ins with Python). I am a fan of AppleU and Unix. 
 
 If you want to know me better, please visit the following sites:
 
