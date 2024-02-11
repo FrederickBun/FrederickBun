@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="imgs/seventeen-logo-final-animated.svg" height="300">
+  <img src="imgs/seventeen-logo-final-animated.svg"  width="200">
 </p>
 
 "Hi, there👋"
