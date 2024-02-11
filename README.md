@@ -2,7 +2,7 @@
   <img src="imgs/seventeen-logo-final-animated.svg"  width="400">
 </p>
 
-"Hi, there👋"
+## "Hi, there👋"
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Never+Give+Up)
 
