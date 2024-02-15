@@ -1,5 +1,7 @@
 <p align="center"> 
-  <img src="logo-final/Seventeen-logo-latest-animited.svg"  width="340">
+  <a href="https://ohdragonboi.cn">
+    <img src="logo-final/Seventeen-logo-latest-animited.svg"  width="320">
+  </a>
 </p>
 
 ## "Hi, there👋"
