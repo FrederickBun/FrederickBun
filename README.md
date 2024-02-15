@@ -56,7 +56,7 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 
 ---
 
-<h2 align="center">Github Stars</h2>
+<h2 align="center">Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=se7entin&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/>
