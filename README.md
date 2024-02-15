@@ -14,7 +14,7 @@
 
 如果你想更好的了解我，请访问以下站点：
 
-个人工作室站点：seventeen.com（搭建中）
+个人工作室站点：[https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
 园子：[cnblogs.com/se7entin](cnblogs.com/se7entin)
 
@@ -26,7 +26,7 @@
 
 如果你想更好的瞭解我，請訪問以下網站：
 
-個人工作室網站：seventeen.com（搭建中）
+個人工作室網站：[https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
 園子：[cnblogs.com/se7entin](cnblogs.com/se7entin)
 
@@ -38,7 +38,7 @@ I am a junior high school student in China, and also an OIer. In my spare time, 
 
 If you want to know me better, please visit the following sites:
 
-Personal studio site: seventeen.com (under construction)
+Personal studio site: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
@@ -48,7 +48,7 @@ Je suis un élève de collège en Chine, et aussi un joueur OI. Dans mon temps l
 
 Si vous voulez mieux Me Connaître, visitez les sites suivants:
 
-Site personnel de studio: seventeen.com (en construction)
+Site personnel de studio: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
 Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [faire un don](DONATE.md). Merci beaucoup!
 
