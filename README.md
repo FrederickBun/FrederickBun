@@ -12,7 +12,7 @@
 
 `*zh-cn*`
 
-我是一名国内初中生，也是一个OI选手（C++不多说），空闲的时候会做一些开发（学习HTML，CSS，JS搭建配置网站，用Python开发一些小插件），AppleU、Unix粉。英语学习爱好者！
+我是一名国内初中生，也是一个OI选手（C++不多说），空闲的时候会做一些开发（学习HTML，CSS，JS搭建配置网站，用Python开发一些小插件），Apple、Unix粉。英语学习爱好者！
 
 如果你想更好的了解我，请访问以下站点：
 
@@ -24,7 +24,7 @@
 
 `*zh-td*`
 
-我是一名國內初中生，也是一個OI選手（C++不多說），空閒的時候會做一些開發（學習HTML，CSS，JS搭建配寘網站，用Python開發一些小挿件），AppleU、Unix粉。英語學習愛好者！
+我是一名國內初中生，也是一個OI選手（C++不多說），空閒的時候會做一些開發（學習HTML，CSS，JS搭建配寘網站，用Python開發一些小挿件），Apple、Unix粉。英語學習愛好者！
 
 如果你想更好的瞭解我，請訪問以下網站：
 
@@ -36,7 +36,7 @@
 
 `*en-us*`
 
-I am a junior high school student in China, and also an OIer. In my spare time, I will do some development (learning how to use HTML, CSS, JS to build configuration websites, and developing some small plug-ins with Python). I am a fan of AppleU and Unix. 
+I am a junior high school student in China, and also an OIer. In my spare time, I will do some development (learning how to use HTML, CSS, JS to build configuration websites, and developing some small plug-ins with Python). I am a fan of Apple and Unix. 
 
 If you want to know me better, please visit the following sites:
 
