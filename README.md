@@ -61,19 +61,19 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=se7entin&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se7entin&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=se7entin&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Seventeen's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsYou&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Seventeen's GitHub Trophies"/>
 </div>
 
 <br>
