@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="https://ohdragonboi.cn">
-    <img src="logo-final/Seventeen-logo-latest-animited.svg"  width="400">
+    <img src="logo-final/logo-final-animated.svg"  width="300">
   </a>
 </p>
 
