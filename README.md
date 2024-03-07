@@ -46,7 +46,7 @@ If you want to know me better, please visit the following sites:
 
 Personal studio site: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
-Online Judge brush - code warehouse: [https://github.com/se7entin/My-Code] (https://github.com/se7entin/My-Code)
+Online Judge brush - code warehouse: [https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
 
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
@@ -56,7 +56,7 @@ Je suis un élève de collège en Chine🇨🇳, et aussi un joueur OI. Dans mon
 
 Si vous voulez mieux Me Connaître, visitez les sites suivants:
 
-OJ en ligne - entrepôt de code: [https://github.com/se7entin/ma-code] (https://github.com/se7entin/ma-code)
+OJ en ligne - entrepôt de code: [https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
 
 Site personnel de studio: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
