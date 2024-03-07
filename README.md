@@ -18,7 +18,7 @@
 
 个人工作室站点：[https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
-国内OIer特供-代码仓库：[https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
+OJ刷题-代码仓库：[https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
 
 园子：[cnblogs.com/se7entin](cnblogs.com/se7entin)
 
@@ -32,6 +32,8 @@
 
 個人工作室網站：[https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
+OJ刷題-代碼倉庫：[https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
+
 園子：[cnblogs.com/se7entin](cnblogs.com/se7entin)
 
 哦！ 對了，既然都來了，就點個關注再走吧！ 你們對我創作的支持是我最大的動力，如果你有條件，也可以[贊助](DONATE.md)我！
@@ -44,6 +46,8 @@ If you want to know me better, please visit the following sites:
 
 Personal studio site: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
+Online Judge brush - code warehouse: [https://github.com/se7entin/My-Code] (https://github.com/se7entin/My-Code)
+
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
 `*fr-fr*`
@@ -51,6 +55,8 @@ If you appreciate my work, feel free to follow me on Github or [donate](DONATE.m
 Je suis un élève de collège en Chine🇨🇳, et aussi un joueur OI. Dans mon temps libre, Temps libre pour faire un peu de développement front-end développement et de plugins en Python. Je suis un fan d’apple d’unix.
 
 Si vous voulez mieux Me Connaître, visitez les sites suivants:
+
+OJ en ligne - entrepôt de code: [https://github.com/se7entin/ma-code] (https://github.com/se7entin/ma-code)
 
 Site personnel de studio: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
