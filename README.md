@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="https://ohdragonboi.cn">
-    <img src="logo-final/logo-final-animated.svg"  width="400">
+    <img src="logo-final/frederick-number-logo-final-@2x-animited.svg"  width="400">
   </a>
 </p>
 
