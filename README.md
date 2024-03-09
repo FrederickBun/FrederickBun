@@ -56,7 +56,7 @@ Je suis un élève de collège en Chine🇨🇳, et aussi un joueur OI. Dans mon
 
 Si vous voulez mieux Me Connaître, visitez les sites suivants:
 
-OJ en ligne - entrepôt de code: [https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
+OJ pratique - entrepôt de code: [https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
 
 Site personnel de studio: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
 
