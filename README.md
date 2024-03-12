@@ -92,7 +92,10 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 
 <h2 align="center">《我的世界》 Hypixel服务器统计 / 《我的世界》 Hypixel伺服器統計 / Minecraft Hypixel Stats</h2>
 
-<img src="https://s21.ax1x.com/2024/03/12/pFci0VH.png" alt="image-20240312下午62139873" style="zoom: 20%;" />
+<h3 align="center"> 
+  <img src="https://s21.ax1x.com/2024/03/12/pFci0VH.png" alt="image-20240312下午62139873"  width="17" />
+  Java Edition ID: Se7en_Tin
+</h3>
 
 <div align="center">
   <img width="500px" src="https://gen.plancke.io/exp/Se7en_Tin.png" alt="Se7en_Tin's Minecraft Hypixel Experience"/>
