@@ -24,7 +24,7 @@ OJ刷题-代码仓库：[https://github.com/se7entin/My-Code](https://github.com
 
 哦！对了，既然都来了，就点个关注再走吧！你们对我创作的支持是我最大的动力，如果你有条件，也可以[赞助](DONATE.md)我！
 
-`*zh-td*`
+`*zh-tw*`
 
 我是一名國內🇨🇳初中生，也是一個OI選手（C++不多說），空閒的時候會做一些前端開發開發和用Python做小插件，Apple、Unix粉。英語學習愛好者！
 
