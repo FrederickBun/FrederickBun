@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Never+Give+Up)
 
-<h2 align="center">个人简介 / 個人介紹 / Self Introduce</h2>
+<h2 align="center">个人简介 / Self Introduce</h2>
 
 `*zh-cn*`
 
@@ -23,20 +23,6 @@ OJ刷题-代码仓库：[https://github.com/se7entin/My-Code](https://github.com
 园子：[cnblogs.com/se7entin](cnblogs.com/se7entin)
 
 哦！对了，既然都来了，就点个关注再走吧！你们对我创作的支持是我最大的动力，如果你有条件，也可以[赞助](DONATE.md)我！
-
-`*zh-tw*`
-
-我是一名國內🇨🇳初中生，也是一個OI選手（C++不多說），空閒的時候會做一些前端開發開發和用Python做小插件，Apple、Unix粉。英語學習愛好者！
-
-如果你想更好的瞭解我，請訪問以下網站：
-
-個人工作室網站：[https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
-
-OJ刷題-代碼倉庫：[https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
-
-園子：[cnblogs.com/se7entin](cnblogs.com/se7entin)
-
-哦！ 對了，既然都來了，就點個關注再走吧！ 你們對我創作的支持是我最大的動力，如果你有條件，也可以[贊助](DONATE.md)我！
 
 `*en-us*`
 
@@ -74,7 +60,7 @@ If you appreciate my work, feel free to follow me on Github or [donate](DONATE.m
 
 ---
 
-<h2 align="center">《我的世界》 Hypixel服务器统计 / 《我的世界》 Hypixel伺服器統計 / Minecraft Hypixel Stats</h2>
+<h2 align="center">《我的世界》 Hypixel服务器统计 / Minecraft Hypixel Stats</h2>
 
 <h3 align="center"> 
   Java Edition ID: Oktica_Muse
