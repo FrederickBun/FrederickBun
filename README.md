@@ -36,8 +36,6 @@ Online Judge brush - code warehouse: [https://github.com/se7entin/My-Code](https
 
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
----
-
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
@@ -57,8 +55,6 @@ If you appreciate my work, feel free to follow me on Github or [donate](DONATE.m
 <div align="center">
   <img src="https://profile-counter.glitch.me/{se7entin}/count.svg" alt="Visitor Count" />
 </div>
-
----
 
 <h2 align="center">《我的世界》 Hypixel服务器统计 / Minecraft Hypixel Stats</h2>
 
