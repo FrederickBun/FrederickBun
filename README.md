@@ -94,17 +94,17 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 
 <h3 align="center"> 
   <img src="https://s21.ax1x.com/2024/03/12/pFci0VH.png" alt="image-20240312下午62139873"  width="17" />
-  Java Edition ID: Se7en_Tin
+  Java Edition ID: Oktica_Muse
 </h3>
 
 <div align="center">
-  <img width="500px" src="https://gen.plancke.io/exp/Se7en_Tin.png" alt="Oktica_Muse's Minecraft Hypixel Experience"/>
+  <img width="500px" src="https://gen.plancke.io/exp/Oktica_Muse.png" alt="Oktica_Muse's Minecraft Hypixel Experience"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="500px" src="https://gen.plancke.io/achievementPoints/Oktica_Muse.png" alt="Se7en_Tin's Minecraft Hypixel Achievement Points"/>
+  <img width="500px" src="https://gen.plancke.io/achievementPoints/Oktica_Muse.png" alt="Oktica_Muse's Minecraft Hypixel Achievement Points"/>
 </div>
 
 <br>
