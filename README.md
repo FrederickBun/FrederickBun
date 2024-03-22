@@ -98,21 +98,13 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 </h3>
 
 <div align="center">
-  <img width="500px" src="https://gen.plancke.io/exp/Se7en_Tin.png" alt="Se7en_Tin's Minecraft Hypixel Experience"/>
+  <img width="500px" src="https://gen.plancke.io/exp/Se7en_Tin.png" alt="Oktica_Muse's Minecraft Hypixel Experience"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="500px" src="https://gen.plancke.io/achievementPoints/Se7en_Tin.png" alt="Se7en_Tin's Minecraft Hypixel Achievement Points"/>
+  <img width="500px" src="https://gen.plancke.io/achievementPoints/Oktica_Muse.png" alt="Se7en_Tin's Minecraft Hypixel Achievement Points"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://hypixel.paniek.de/signature/836577b2ec974b04a52376d876b63103/general-tooltip" alt="Hypixel Bedwars Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://hypixel.paniek.de/signature/836577b2ec974b04a52376d876b63103/skyblock/stats/0225a6dd816e4df18b4333673bfc857e" alt="Hypixel Skyblock Stats"/>
-</div>
