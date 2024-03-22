@@ -50,30 +50,14 @@ Online Judge brush - code warehouse: [https://github.com/se7entin/My-Code](https
 
 If you appreciate my work, feel free to follow me on Github or [donate](DONATE.md). Thank you! 
 
-`*fr-fr*`
-
-Je suis un élève de collège en Chine🇨🇳, et aussi un joueur OI. Dans mon temps libre, Temps libre pour faire un peu de développement front-end développement et de plugins en Python. Je suis un fan d’apple d’unix.
-
-Si vous voulez mieux Me Connaître, visitez les sites suivants:
-
-OJ pratique - entrepôt de code: [https://github.com/se7entin/My-Code](https://github.com/se7entin/My-Code)
-
-Site personnel de studio: [https://www.ohdragonboi.cn](https://www.ohdragonboi.cn)
-
-Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [faire un don](DONATE.md). Merci beaucoup!
-
 ---
 
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/>
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages" width="355">
 </div>
 
 <br>
@@ -93,7 +77,6 @@ Si vous appréciez mon travail, n’hésitez pas à me suivre sur Github ou à [
 <h2 align="center">《我的世界》 Hypixel服务器统计 / 《我的世界》 Hypixel伺服器統計 / Minecraft Hypixel Stats</h2>
 
 <h3 align="center"> 
-  <img src="https://s21.ax1x.com/2024/03/12/pFci0VH.png" alt="image-20240312下午62139873"  width="17" />
   Java Edition ID: Oktica_Muse
 </h3>
 
