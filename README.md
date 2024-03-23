@@ -39,9 +39,9 @@ If you appreciate my work, feel free to follow me on Github or [donate](DONATE.m
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Github Stars"/ width="310">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages" width="355">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Seventeen's Top Languages" width="235">
 </div>
 
 <br>
