@@ -6,7 +6,7 @@
 
 ## "Hi, there👋"
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Never+Give+Up)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Just+in+time)
 
 <h2 align="center">个人简介 / Self Introduce</h2>
 
@@ -52,9 +52,9 @@ If you appreciate my work, feel free to follow me on Github or [donate](DONATE.m
 
 <br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{se7entin}/count.svg" alt="Visitor Count" />
-</div>
+<h3 align="center">
+  You are my No.<img src="https://profile-counter.glitch.me/{se7entin}/count.svg" alt="Visitor Count" width="200px"/> Visiter
+</h3>
 
 <h2 align="center">《我的世界》 Hypixel服务器统计 / Minecraft Hypixel Stats</h2>
 
