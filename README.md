@@ -6,7 +6,7 @@
 
 ## "Hi, there👋"
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Just+in+time)
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=435&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
 
 <h2 align="center">个人简介 / Self Introduce</h2>
 
