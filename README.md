@@ -2,7 +2,7 @@
 
 > Last Login: <!--dateStart-->Mar 24<!--dateEnd-->
 
-![type text](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=435&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
+![type text](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=400&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
 
 ~~来啦？来干啥？要饭的吗～~~
 
