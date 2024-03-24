@@ -1,8 +1,9 @@
+![type text](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=340&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
+
 <img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="500px" alt="ohdragonboi" title="ohdragonboi" />
 
-> Last Login: <!--dateStart-->Mar 24<!--dateEnd-->
-
-![type text](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=340&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
+> 上一次登陆 / Last login:
+> Mar 24
 
 ~~来啦？来干啥？要饭的吗～~~
 
