@@ -1,7 +1,5 @@
 ![type text](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=340&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
 
-<img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="450px" alt="ohdragonboi" title="ohdragonboi" />
-
 > 上一次登陆 / Last login:
 > Mar 24
 
@@ -10,6 +8,8 @@
 I am a junior high school student from China🇨🇳, and also an OIer. In my spare time, I will do some front-end development and use Python to make plugins, and developing some plugins with Python. I am a fan of Apple and Unix.
 
 ---
+
+<img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="450px" alt="ohdragonboi" title="ohdragonboi" />
 
 ### 正在开发 / Under development:
 
