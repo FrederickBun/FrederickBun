@@ -9,7 +9,7 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
 
 ---
 
-<img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="370px" alt="ohdragonboi" title="ohdragonboi" />
+<img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="165px" alt="ohdragonboi" title="ohdragonboi" />
 
 ### 正在开发 / Under development:
 
