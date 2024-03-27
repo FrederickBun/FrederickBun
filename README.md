@@ -6,9 +6,11 @@
 ~~来啦？来干啥？要饭的吗～~~
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou"title="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact"title="Github Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou"title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact" width="200px" title="Github Stats" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou" width="700px" title="Github Stats" />
 </div>
 
 ---
