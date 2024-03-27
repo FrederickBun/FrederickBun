@@ -5,6 +5,12 @@
 
 ~~来啦？来干啥？要饭的吗～~~
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou"title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact"title="Github Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou"title="Github Stats" />
+</div>
+
 ---
 
 <div align="right">
