@@ -5,13 +5,13 @@
 
 ~~来啦？来干啥？要饭的吗～~~
 
-I am a junior high school student from China🇨🇳, and also an OIer. In my spare time, I will do some front-end development UI/UX design. I am a fan of Apple and Unix.
-
 ---
 
 <div align="right">
-  <img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="165px" alt="ohdragonboi" title="ohdragonboi" />
+  <img align="right" src="imgs/oktica-muse@1x.png" width="400px" alt="ohdragonboi" title="ohdragonboi" />
 </div>
+
+I am a junior high school student from China🇨🇳, and also an OIer. In my spare time, I will do some front-end development UI/UX design. I am a fan of Apple and Unix.
 
 ### 正在开发 / Under development:
 
