@@ -5,14 +5,6 @@
 
 ~~来啦？来干啥？要饭的吗～~~
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact" width="200px" title="Github Stats" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou" width="700px" title="Github Stats" />
-</div>
-
 ---
 
 <div align="right">
@@ -40,3 +32,10 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
 
  - [中国用户点这里 / Chinese users click here](https://afdian.net/a/se7entin)
  - [非中国用户点这里 / Non-chinese users click here](https://polar.sh/FrederickAsYou)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact" width="237px" title="Github Stats" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou" width="700px" title="Github Stats" />
+</div>
