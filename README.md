@@ -33,6 +33,8 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
  - [中国用户点这里 / Chinese users click here](https://afdian.net/a/se7entin)
  - [非中国用户点这里 / Non-chinese users click here](https://polar.sh/FrederickAsYou)
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact" width="237px" title="Github Stats" />
