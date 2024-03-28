@@ -8,7 +8,7 @@
 ---
 
 <div align="right">
-  <img align="right" src="imgs/oktica-muse@1x.png" width="300px" alt="ohdragonboi" title="ohdragonboi" />
+  <img align="right" src="imgs/oktica-muse@1x.png" width="290px" alt="ohdragonboi" title="ohdragonboi" />
 </div>
 
 I am a junior high school student from China🇨🇳, and also an OIer. In my spare time, I will do some front-end development UI/UX design. I am a fan of Apple and Unix.
