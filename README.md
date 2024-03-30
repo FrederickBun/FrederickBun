@@ -13,10 +13,9 @@
 
 I am a junior high school student from China🇨🇳, and also an OIer. In my spare time, I will do some front-end development UI/UX design. I am a fan of Apple and Unix.
 
-### 正在开发 / Under development:
+### 开发 / Development:
 
- - Wordpress主题Readwell / Wordpress Theme Readwell
- - 个人新站点 / Personal new website
+ - ![个人新站点 / Personal new website](https://frederication.work)
 
 ### 联系方式 / Contact me:
 
