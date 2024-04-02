@@ -15,7 +15,7 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
 
 ### 开发 / Development:
 
- - ![个人新站点 / Personal new website](https://frederication.work)
+ - [个人新站点 / Personal new website](https://frederication.work)
 
 ### 联系方式 / Contact me:
 
