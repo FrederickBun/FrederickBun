@@ -34,6 +34,8 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
 
 <br>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact" width="237px" title="Github Stats" />
