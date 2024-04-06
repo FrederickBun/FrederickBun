@@ -17,6 +17,10 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
 
  - [个人新站点 / Personal new website](https://frederication.work)
 
+### 贡献 / Contribution:
+
+ - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine)（一小点而已）
+
 ### 联系方式 / Contact me:
 
  - WeChat ID: `Please_Touch_Me`
@@ -26,8 +30,6 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
  - X(Twitter): [`@FrederickAsYou`](https://twitter.com/FrederickAsYou)
 
  - E-mail: [seventeen@ohdragonboi.cn](mailto:seventeen@ohdragonboi.cn)
-
-<br>
 
 <a href="https://afdian.net/a/se7entin"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian"/></a >
 
