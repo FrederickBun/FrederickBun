@@ -27,7 +27,7 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
 
  - E-mail: [seventeen@ohdragonboi.cn](mailto:seventeen@ohdragonboi.cn)
 
-### [要饭啦！！ / Donation](https://afdian.net/a/se7entin)
+ 👉 [要饭啦！！！！！](https://afdian.net/a/se7entin)
 
 <br>
 
