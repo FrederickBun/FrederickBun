@@ -1,7 +1,7 @@
 ![type text](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=340&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me)
 
-> **Last login:** 
-> Mar 30
+> **Attention:** 
+> 开发WP主题ing
 
 ~~来啦？来干啥？要饭的吗～~~
 
