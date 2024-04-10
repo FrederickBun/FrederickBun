@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://frederication.work/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rayminn祝您今日愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=340&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me&center=true">
     <br>
     <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg">
   </a>
