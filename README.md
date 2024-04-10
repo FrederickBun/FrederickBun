@@ -5,7 +5,7 @@
 </div>
 
 > **Attention:** 
-> 开发Hexo主题ing
+> [@AlignPixel](https://github.com/AlignPixel)即将面世
 
 ---
 
