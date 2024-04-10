@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<img src="https://profile-counter.glitch.me/Se7enTin/count.svg">
+
 > **Attention:** 
 > [@AlignPixel](https://github.com/AlignPixel)即将面世
 
