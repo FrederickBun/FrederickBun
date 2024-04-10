@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://frederication.work/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rayminn祝您今日愉快!&center=true&size=27">
+    <br>
+    <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg">
   </a>
 </div>
-
-<img src="https://profile-counter.glitch.me/Se7enTin/count.svg">
 
 > **Attention:** 
 > [@AlignPixel](https://github.com/AlignPixel)即将面世
