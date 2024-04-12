@@ -7,7 +7,7 @@
 </div>
 
 
-> Just do it.
+> 逆风的方向，更适合飞翔～
 
 `//profile.intoduce`
 
