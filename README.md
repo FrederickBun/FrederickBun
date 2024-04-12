@@ -34,6 +34,8 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
   <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou" width="700px" title="Github Stats" />
 </div>
 
+<br>
+
 `//githubstats.profile`
 
 ![GitHub followers](https://img.shields.io/github/followers/FrederickAsYou?style=for-the-badge&logo=Github&logoColor=White)  ![GitHub User's stars](https://img.shields.io/github/stars/FrederickAsYou?style=for-the-badge&logo=github&logoColor=white) 
