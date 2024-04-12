@@ -6,40 +6,26 @@
   </a>
 </div>
 
-> **Attention:** 
-> [@AlignPixel](https://github.com/AlignPixel)即将面世
 
----
+> Just do it.
 
-<div align="right">
-  <img align="right" src="imgs/oktica-muse@1x.png" width="285px" alt="ohdragonboi" title="ohdragonboi" />
-</div>
+`//profile.intoduce`
 
-I am a junior high school student from China🇨🇳, and also an OIer. In my spare time, I will do some front-end development UI/UX design. I am a fan of Apple and Unix.
+Hello there👋, my name is **Frederick Chen**. I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%81%94%E8%B5%9B).I'm also anront-end/full-stack developer. In my spare time, I'll make some interesting project for everybody. By the way, I'm also one of the cofounders of [@AlignPixel](https://github.com/AlignPixel)! 
 
-### 开发 / Development:
+`//profile.social`
 
- - [个人新站点 / Personal new website](https://frederication.work)
+[![Static Badge](https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FrederickAsYou) [![Static Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Fredgg0017) [![Static Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=planet&logoColor=white)](frederication.work) [![Static Badge](https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@frederickay) [![Static Badge](https://img.shields.io/badge/%40-Emal-green?style=for-the-badge&logoColor=white)](mailto:seventeen@ohdragonboi.cn)
 
-### 贡献 / Contribution:
+`//development.making`
 
- - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine)（一小点而已）
+- AlignPixel官方站点 / AlignPixel Official Website
 
-### 联系方式 / Contact me:
+`//development.contribution`
 
- - WeChat ID: `Please_Touch_Me`
+- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) (A few...)
 
- - Discard: `fredkkkkkkkkkkkkk_8888888`
-
- - X(Twitter): [`@FrederickAsYou`](https://twitter.com/FrederickAsYou)
-
- - E-mail: [seventeen@ohdragonboi.cn](mailto:seventeen@ohdragonboi.cn)
-
-<a href="https://afdian.net/a/se7entin"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian"/></a >
-
-<br>
-
-<br>
+`//githubstats.code`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
@@ -47,3 +33,7 @@ I am a junior high school student from China🇨🇳, and also an OIer. In my sp
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou" width="700px" title="Github Stats" />
 </div>
+
+`//githubstats.profile`
+
+![GitHub followers](https://img.shields.io/github/followers/FrederickAsYou?style=for-the-badge&logo=Github&logoColor=White)  ![GitHub User's stars](https://img.shields.io/github/stars/FrederickAsYou?style=for-the-badge&logo=github&logoColor=white) 
