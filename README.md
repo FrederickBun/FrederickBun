@@ -1,4 +1,4 @@
-![e182e938872f4dd9b40807c93128bd56_1](https://github.com/FrederickAsYou/FrederickAsYou/assets/120368045/d1809765-ac7d-4272-87c8-6011ef9c1647)
+<img src="https://github.com/FrederickAsYou/FrederickAsYou/assets/120368045/d1809765-ac7d-4272-87c8-6011ef9c1647" alt="e182e938872f4dd9b40807c93128bd56_1" style="zoom:50%;" />
 
 ```finder
 //Oktica_Muse@github.html
