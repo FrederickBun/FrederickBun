@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://frederication.work/">
-    <img src="logo-final/oktica-right-logo-neon-webkit-animation.svg" width="400px"/>
+    <img src="logo-final/oktica-right-logo-neon-webkit-animation.svg" width="300px"/>
     <br>
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=340&lines=Just+in+time!;Have+a+good+time~;Please_Touch_Me&center=true"/>
     <br>
