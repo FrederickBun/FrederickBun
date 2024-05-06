@@ -20,7 +20,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_personal.social`
 
-[![Static Badge](https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FrederickAsYou) [![Static Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Fredgg0017) [![Static Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=planet&logoColor=white)](frederication.work) [![Static Badge](https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@frederickay) [![Static Badge](https://img.shields.io/badge/%40-Emal-green?style=for-the-badge&logoColor=white)](mailto:seventeen@ohdragonboi.cn)
+[![Static Badge](https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FrederickAsYou) [![Static Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Fredgg0017) [![Static Badge](https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@frederickay) [![Static Badge](https://img.shields.io/badge/%40-Emal-green?style=for-the-badge&logoColor=white)](mailto:seventeen@ohdragonboi.cn)
 
 `_development.making`
 
