@@ -29,6 +29,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 `_development.contribution`
 
 - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) (A few...)
+- [hexo-theme-solitude](https://github.com/valor-x/hexo-theme-solitude)
 
 `_githubstats.code`
 
