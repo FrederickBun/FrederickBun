@@ -7,7 +7,7 @@
 
 |                         扫码 / Scan                          |                         链接 / Link                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071641332.jpeg" alt="afdian-FrederickAsYou" style="zoom:30%;" /> | <a href="https://afdian.net/a/se7en_tin"> <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a > |
+| <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071641332.jpeg" alt="afdian-FrederickAsYou" style="zoom:30%;" /> | <a href="https://afdian.net/a/se7entin"> <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a > |
 
 为方便管理，暂不支持其他赞助方式！！
 
