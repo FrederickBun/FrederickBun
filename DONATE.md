@@ -1,13 +1,13 @@
 # 赞助 / Sponsorship
 
-<img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071934732.png" alt="image-20240507下午73439692" style="zoom:50%;" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071934732.png" alt="image-20240507下午73439692" width="600px"/>
 
 
 ## 赞助方法 / Sponsorship Methods
 
 |                         扫码 / Scan                          |                         链接 / Link                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071641332.jpeg" alt="afdian-FrederickAsYou" style="zoom:30%;" /> | <a href="https://afdian.net/a/se7entin"> <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a > |
+| <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071641332.jpeg" alt="afdian-FrederickAsYou" width="600px" /> | <a href="https://afdian.net/a/se7entin"> <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" width="400px" alt=""></a > |
 
 为方便管理，暂不支持其他赞助方式！！
 
