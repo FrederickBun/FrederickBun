@@ -52,4 +52,4 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 ---
 
-###### © 2024 Frederick Chen. All rights reserved. 
+###### &copy; 2024 Frederick Chen. All rights reserved. 
