@@ -32,10 +32,10 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 `_githubstats.code`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAsYou" width="300px" title="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAsYou&layout=compact" width="237px" title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickBun" width="300px" title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact" width="237px" title="Github Stats" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=FrederickAsyou&theme=flat&column=6&margin-w=15&margin-h=15" title="Github Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FrederickBun&theme=flat&column=6&margin-w=15&margin-h=15" title="Github Stats" />
 </div>
 
 <br>
