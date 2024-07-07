@@ -1,3 +1,15 @@
+```finder
+//Oktica_Dev@sponsor.html
+```
+
+<div align="center">
+  <a href="https://setbun.com/">
+    <img src="logo-final/oktica-right-logo-neon-webkit-animation.svg" width="300px"/>
+    <br>
+    <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
+  </a>
+</div>
+
 > [!NOTE]
 > Due to my study, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
 
