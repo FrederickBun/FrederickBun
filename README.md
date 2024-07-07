@@ -10,7 +10,8 @@
   </a>
 </div>
 
-> 逆风的方向，更适合飞翔～
+> [!WARNING]
+> I am currently conducting the summer training of Informatics Olympiad in the High School affiliated to Southwest University. The project and other support will be paused for updates, and updates are expected to continue in August!
 
 `_personal.intoduce`
 
