@@ -47,7 +47,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_donate.sponsorship`
 
-[☕️BUY ME A COFFEE!](/DONATE.md)
+[☕️ BUY ME A COFFEE!](/DONATE.md)
 
 ---
 
