@@ -1,5 +1,5 @@
 > [!NOTE]
-> 因本人学习原因，可能延迟添加您的赞助信息，请耐心等候，谢谢支持🙏
+> Due to my study, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
 
 # 赞助 / Sponsorship
 
