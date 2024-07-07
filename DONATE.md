@@ -83,3 +83,7 @@ Website (If no, don't enter) :
 |                 |                  |                   |                    |                |
 |                 |                  |                   |                    |                |
 |                 |                  |                   |                    |                |
+
+---
+
+###### &copy; 2024 Frederick Chen. All rights reserved. 
