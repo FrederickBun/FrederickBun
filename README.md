@@ -3,7 +3,7 @@
 ```
 
 <div align="center">
-  <a href="https://frederication.work/">
+  <a href="https://setbun.com/">
     <img src="logo-final/oktica-right-logo-neon-webkit-animation.svg" width="300px"/>
     <br>
     <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
