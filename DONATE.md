@@ -11,7 +11,7 @@
 </div>
 
 > [!NOTE]
-> Due to my study, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
+> **Due to my study**, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
 
 # 赞助 / Sponsorship
 
