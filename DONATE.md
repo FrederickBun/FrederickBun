@@ -1,3 +1,6 @@
+> [!NOTE]
+> 因本人学习原因，可能延迟添加您的赞助信息，请耐心等候，谢谢支持🙏
+
 # 赞助 / Sponsorship
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071934732.png" alt="image-20240507下午73439692" width="600px"/>
