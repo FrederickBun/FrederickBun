@@ -40,6 +40,11 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 <br>
 
+`_blogpost.latestupdate`
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 `_githubstats.profile`
 
 ![GitHub followers](https://img.shields.io/github/followers/FrederickBun?style=for-the-badge&logo=Github&logoColor=White)  ![GitHub User's stars](https://img.shields.io/github/stars/FrederickBun?style=for-the-badge&logo=github&logoColor=white) 
