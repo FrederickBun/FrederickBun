@@ -21,6 +21,16 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 [![Static Badge](https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FrederickAsYou) [![Static Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Fredgg0017) [![Static Badge](https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white)](https://fairy.id/@bundragon) [![Static Badge](https://img.shields.io/badge/%40-Emal-green?style=for-the-badge&logoColor=white)](mailto:seventeen@ohdragonboi.cn)
 
+`_blogpost.latestupdate`
+
+<!-- BLOG-POST-LIST:START -->
+- [「题解」 『FLA - I』冲云霄](https://setbun.com/p/20240803.html)
+- [Pixel-Chat Boom项目介绍](https://setbun.com/p/20240729.html)
+- [「题解」 [COCI 2023/2024 No.2]Zatopljenje](https://setbun.com/p/20240728.html)
+- [「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）](https://setbun.com/p/20240713.html)
+- [「题解」 [NOIP2014 普及组] 螺旋矩阵](https://setbun.com/p/20240712.html)
+<!-- BLOG-POST-LIST:END -->
+
 `_development.making`
 
 - [Pixel-Chat-App](https://github.com/AlignPixel/Pixel-Chat-App)
@@ -39,16 +49,6 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 </div>
 
 <br>
-
-`_blogpost.latestupdate`
-
-<!-- BLOG-POST-LIST:START -->
-- [「题解」 『FLA - I』冲云霄](https://setbun.com/p/20240803.html)
-- [Pixel-Chat Boom项目介绍](https://setbun.com/p/20240729.html)
-- [「题解」 [COCI 2023/2024 No.2]Zatopljenje](https://setbun.com/p/20240728.html)
-- [「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）](https://setbun.com/p/20240713.html)
-- [「题解」 [NOIP2014 普及组] 螺旋矩阵](https://setbun.com/p/20240712.html)
-<!-- BLOG-POST-LIST:END -->
 
 `_githubstats.profile`
 
