@@ -11,9 +11,6 @@
 </div>
 
 > [!NOTE]
-> Last login at: <!-- LAST_LOGIN_DATE START --><!-- LAST_LOGIN_DATE END -->
-
-> [!WARNING]
 > **Due to my study**, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
 
 # 赞助 / Sponsorship
