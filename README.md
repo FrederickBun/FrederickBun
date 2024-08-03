@@ -21,7 +21,9 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 [![Static Badge](https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FrederickAsYou) [![Static Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Fredgg0017) [![Static Badge](https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white)](https://fairy.id/@bundragon) [![Static Badge](https://img.shields.io/badge/%40-Emal-green?style=for-the-badge&logoColor=white)](mailto:seventeen@ohdragonboi.cn)
 
-`_blogpost.latestupdate`
+`_blogpost.lastupdate`
+
+> The recommend post of [My personal blog](https://setbun.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [「题解」 『FLA - I』冲云霄](https://setbun.com/p/20240803.html)
