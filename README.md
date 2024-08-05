@@ -67,7 +67,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_githubstats.profile`
 
-![GitHub followers](https://img.shields.io/github/followers/FrederickBun?style=for-the-badge&logo=Github&logoColor=White)  ![GitHub User's stars](https://img.shields.io/github/stars/FrederickBun?style=for-the-badge&logo=github&logoColor=white) 
+[![GitHub followers](https://img.shields.io/github/followers/FrederickBun?style=for-the-badge&logo=Github&logoColor=White)](https://github.com/FrederickBun?tab=followers)  [![GitHub User's stars](https://img.shields.io/github/stars/FrederickBun?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrederickBun?tab=repositories)
 
 `_donate.sponsorship`
 
