@@ -45,7 +45,11 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrederickBun" width="300px" title="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact" width="237px" title="Github Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&theme=highcontrast" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact" />
+    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact" />
+  </picture>
   <br>
   <br>
   <picture>
