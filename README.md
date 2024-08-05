@@ -53,9 +53,9 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
   <br>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&theme=kimbie_dark&no-frame=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&no-frame=true" />
-    <img alt="Pages Image" src="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&no-frame=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&theme=kimbie_dark&no-frame=true&column=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&no-frame=true&column=5" />
+    <img alt="Pages Image" src="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&no-frame=true&column=5" />
   </picture>
 </div>
 
