@@ -46,13 +46,13 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn&show_icons=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn&show_icons=true" />
-    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn&show_icons=true" width="312px"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn&show_icons=true&theme=flag-india" />
+    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn&show_icons=true&theme=flag-india" width="312px"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn" />
-    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn" width="237px"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn&theme=flag-india" />
+    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn&theme=flag-india" width="237px"/>
   </picture>
   <br>
   <br>
