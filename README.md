@@ -45,14 +45,14 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true" />
-    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true" width="300px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn" />
+    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn" width="300px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true" />
-    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true" width="237px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn" />
+    <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn" width="237px"/>
   </picture>
   <br>
   <br>
