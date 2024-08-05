@@ -49,7 +49,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
   <br>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&theme=flat&column=6&margin-w=15&margin-h=15&theme=onedark)" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&theme=flat&column=6&margin-w=15&margin-h=15&theme=onedark" />
     <source media="(prefers-color-scheme: light)" srcset="[https://github.com/EvanNotFound/hexo-theme-redefine/assets/68590232/c6df4b81-557d-4e0b-8038-b056075d0fa4](https://github-profile-trophy.vercel.app/?username=FrederickBun&theme=flat&column=6&margin-w=15&margin-h=15)" />
     <img alt="Pages Image" src="https://github-profile-trophy.vercel.app/?username=FrederickBun&theme=flat&column=6&margin-w=15&margin-h=15" />
   </picture>
