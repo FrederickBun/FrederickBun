@@ -1,5 +1,5 @@
-```finder
-//Oktica_Dev@github.html
+```terminal
+oktica@dev$ github.md
 ```
 
 <div align="center">
