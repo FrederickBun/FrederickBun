@@ -13,6 +13,16 @@ oktica@dev$ github.md
 > [!WARNING]
 > I am currently conducting the **Prepare to participate in the Chinese Informatics Competition CSP-J competition**. The project and other support will be paused for updates, and updates are expected to continue in August!
 
+`_repo.recommend`
+
+<a href="https://github.com/AlignPixel/Pixel-Chat-App">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn&theme=dark />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn" />
+      <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn" width="312px"/>
+    </picture>
+</a>
+
 `_personal.intoduce`
 
 Hello there👋, my name is **Frederick Chen**. I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%81%94%E8%B5%9B). I'm also anront-end/full-stack developer. In my spare time, I'll make some interesting project for everybody. By the way, I'm also one of the cofounders of [@AlignPixel](https://github.com/AlignPixel)! 
@@ -21,9 +31,9 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 [![Static Badge](https://img.shields.io/badge/Twitter(X)-blue?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FrederickAsYou) [![Static Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Fredgg0017) [![Static Badge](https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white)](https://fairy.id/@bundragon) [![Static Badge](https://img.shields.io/badge/%40-Emal-green?style=for-the-badge&logoColor=white)](mailto:seventeen@ohdragonboi.cn)
 
-`_blogpost.lastupdate(zh-CN)`
+`_blogpost.lastupdate`
 
-> The recommend post of [My personal blog](https://setbun.com)
+> The recommend post of [My personal blog(zh-CN)](https://setbun.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [FlowUs - 记笔记？计划日程？个人工作台？](https://setbun.com/p/20240807.html)
