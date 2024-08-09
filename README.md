@@ -17,7 +17,7 @@ oktica@dev$ github.md
 
 <a href="https://github.com/AlignPixel/Pixel-Chat-App">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn&theme=dark />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn&theme=dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn" />
       <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn" width="312px"/>
     </picture>
