@@ -33,9 +33,10 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_blogpost.lastupdate`
 
-> The recommend post of [My personal blog(zh-CN)](https://setbun.com)
->
-> My personal blog(zh-CN): ![Buntalk Status](http://154.21.201.165:888/api/badge/2/status?style=for-the-badge)
+> The recommend post of [Buntalk(zh-CN)](https://setbun.com)
+
+Buntalk Status
+![Buntalk Status](http://154.21.201.165:888/api/badge/2/status?style=for-the-badge)
 
 <!-- BLOG-POST-LIST:START -->
 - [FlowUs - 记笔记？计划日程？个人工作台？](https://www.setbun.com/p/20240807.html)
