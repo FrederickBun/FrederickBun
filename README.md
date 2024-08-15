@@ -35,7 +35,8 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 > The recommend post of [Buntalk(zh-CN)](https://setbun.com)
 
-Buntalk Status
+*Buntalk Status：*
+
 ![Buntalk Status](http://154.21.201.165:888/api/badge/2/status?style=for-the-badge)
 
 <!-- BLOG-POST-LIST:START -->
