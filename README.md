@@ -40,11 +40,11 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 [![Buntalk Status](http://154.21.201.165:888/api/badge/2/status?style=for-the-badge)](http://154.21.201.165:888/status/buneye)
 
 <!-- BLOG-POST-LIST:START -->
+- [【撰写中】🇸🇬新加坡旅游Tips](https://www.setbun.com/p/20240819.html)
 - [FlowUs - 记笔记？计划日程？个人工作台？](https://www.setbun.com/p/20240807.html)
 - [「题解」 『FLA - I』冲云霄](https://www.setbun.com/p/20240803.html)
 - [Pixel-Chat Boom项目介绍](https://www.setbun.com/p/20240729.html)
 - [「题解」 [COCI 2023/2024 No.2]Zatopljenje](https://www.setbun.com/p/20240728.html)
-- [「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）](https://www.setbun.com/p/20240713.html)
 <!-- BLOG-POST-LIST:END -->
 
 `_development.making`
