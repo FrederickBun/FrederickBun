@@ -40,7 +40,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 [![Buntalk Status](http://154.21.201.165:888/api/badge/2/status?style=for-the-badge)](http://154.21.201.165:888/status/buneye)
 
 <!-- BLOG-POST-LIST:START -->
-- [推荐几个是英语竞赛的 C++ 模板库](https://www.setbun.com/p/20240820.html)
+- [推荐几个适用于竞赛的 C++ 模板库](https://www.setbun.com/p/20240820.html)
 - [【撰写中】🇸🇬新加坡旅游Tips](https://www.setbun.com/p/20240819.html)
 - [FlowUs - 记笔记？计划日程？个人工作台？](https://www.setbun.com/p/20240807.html)
 - [「题解」 『FLA - I』冲云霄](https://www.setbun.com/p/20240803.html)
