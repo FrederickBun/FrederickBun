@@ -10,7 +10,7 @@ oktica@dev$ github.md
   </a>
 </div>
 
-> [!WARNING]
+> [!IMPORTANT]
 > I am currently conducting the **Prepare to participate in the Chinese Informatics Competition CSP-J competition**. The project and other support will be paused for updates, and updates are expected to continue in August!
 
 `_repo.recommend`
