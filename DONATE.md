@@ -1,5 +1,5 @@
 ```finder
-//Oktica_Dev@sponsor.html
+oktica@dev$ sonsor.md
 ```
 
 <div align="center">
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-> [!NOTE]
+> [!WARNING]
 > **Due to my study**, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
 
 # 赞助 / Sponsorship
