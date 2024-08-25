@@ -33,11 +33,8 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_blogpost.lastupdate`
 
+> [!TIP]
 > The recommend post of [Buntalk(zh-CN)](https://setbun.com)
-
-*Buntalk Status：*
-
-[![Buntalk Status](http://154.21.201.165:888/api/badge/2/status?style=for-the-badge)](http://154.21.201.165:888/status/buneye)
 
 <!-- BLOG-POST-LIST:START -->
 - [推荐几个适用于竞赛的 C++ 模板库](https://www.setbun.com/p/20240820.html)
