@@ -12,6 +12,8 @@ oktica@dev$ github.md
 
 > [!IMPORTANT]
 > I am currently conducting the **Prepare to participate in the Chinese Informatics Competition CSP-J competition**. The project and other support will be paused for updates, and updates are expected to continue in August!
+>
+> Click here to follow [Service Status](STATUS.md)
 
 `_repo.recommend`
 
@@ -35,8 +37,8 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 > [!TIP]
 > The recommend post of [Buntalk(zh-CN)](https://setbun.com)
-> 
-> Click here to follow [Service Status](STATUS.md)
+>
+> [Take a look at this first?](POSTRECOMMEND.md)
 
 <!-- BLOG-POST-LIST:START -->
 - [推荐几个适用于竞赛的 C++ 模板库](https://www.setbun.com/p/20240820.html)
