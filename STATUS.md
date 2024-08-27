@@ -17,7 +17,6 @@ oktica@dev$ status.md
 > Operational
 
 #### Comment System [🔗](https://comment.setbun.com)
-> [!CAUTION]
 > Scheduled maintenance
 > 
 > More: Change Databace
