@@ -63,7 +63,7 @@ class ClientReceiveThread(threading.Thread):
 
 
 
-... please go to the blog for more information
+## ... please go to the blog for more information
 ```
 
 大概就是这个样子，官方不提供此技术支持，如果你有问题请到[项目讨论](https://github.com/AlignPixel/Pixel-Chat-App/discussions)与其他小伙伴交流、分享测试经验
