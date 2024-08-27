@@ -35,6 +35,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 > [!TIP]
 > The recommend post of [Buntalk(zh-CN)](https://setbun.com)
+> [Service Status](STATUS.md)
 
 <!-- BLOG-POST-LIST:START -->
 - [推荐几个适用于竞赛的 C++ 模板库](https://www.setbun.com/p/20240820.html)
