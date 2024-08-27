@@ -23,3 +23,7 @@ oktica@dev$ status.md
 
 #### Whois search [🔗](https://whois.api.setbun.com)
 > Operational
+
+---
+
+###### &copy; 2024 Frederick Chen. All rights reserved. 
