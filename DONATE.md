@@ -1,4 +1,4 @@
-```finder
+```terminal
 oktica@dev$ sonsor.md
 ```
 
