@@ -13,12 +13,12 @@ oktica@dev$ status.md
 > [!NOTE]
 > Here only show problems found by artificial or is about to start the maintenance plan, understand the service status for more information please visit [status.setbun.com](https://status.setbun.com)
 
-#### Blog
+#### Blog [🔗](https://www.setbun.com)
 > Operational
 
-#### Comment System
+#### Comment System [🔗](https://comment.setbun.com)
 > Scheduled maintenance
 > More: Change Databace
 
-#### Whois search
+#### Whois search [🔗](https://whois.api.setbun.com)
 > Operational
