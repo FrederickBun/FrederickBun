@@ -41,11 +41,11 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 > [Take a look at this first?](POSTRECOMMEND.md)
 
 <!-- BLOG-POST-LIST:START -->
+- [「随笔」 云盘太重要了](https://www.setbun.com/p/20240828.html)
 - [推荐几个适用于竞赛的 C++ 模板库](https://www.setbun.com/p/20240820.html)
 - [【撰写中】🇸🇬新加坡旅游Tips](https://www.setbun.com/p/20240819.html)
 - [FlowUs - 记笔记？计划日程？个人工作台？](https://www.setbun.com/p/20240807.html)
 - [「题解」 『FLA - I』冲云霄](https://www.setbun.com/p/20240803.html)
-- [Pixel-Chat Boom项目介绍](https://www.setbun.com/p/20240729.html)
 <!-- BLOG-POST-LIST:END -->
 
 `_development.making`
