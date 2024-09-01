@@ -1,5 +1,5 @@
-```finder
-//Oktica_Dev@sponsor.html
+```terminal
+oktica@dev$ sonsor.md
 ```
 
 <div align="center">
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-> [!NOTE]
+> [!WARNING]
 > **Due to my study**, I may delay adding your sponsorship information, please wait patiently, thank you for your support 🙏
 
 # 赞助 / Sponsorship
@@ -22,7 +22,7 @@
 
 |                         扫码 / Scan                          |                         链接 / Link                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071641332.jpeg" alt="afdian-FrederickAsYou" width="200px" /> | <a href="https://afdian.net/a/se7entin"> <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" width="200px" alt=""></a > |
+| <img src="https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405071641332.jpeg" alt="afdian-FrederickAsYou" width="200px" /> | <a href="https://afdian.com/a/se7entin"> <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" width="200px" alt=""></a > |
 
 为方便管理，暂不支持其他赞助方式！！
 
