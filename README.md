@@ -39,7 +39,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn" />
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn&theme=light" />
-      <img alt="Pages Image" src="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn&theme=light"/>
+      <img alt="Pages Image" src="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn&theme=light" width="312px"/>
   </picture>
 </div>
 
