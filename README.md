@@ -22,7 +22,7 @@ oktica@dev$ github.md
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn&theme=dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn" />
       <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/pin/?username=AlignPixel&repo=Pixel-Chat-App&locale=cn" width="312px"/>
-    </picture>
+  </picture>
 </a>
 
 `_personal.intoduce`
@@ -35,7 +35,13 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_personal.skills`
 
-[![skills](https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn)](https://github.com/FrederickBun?tab=achievements)
+<div align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn&theme=light" />
+      <img alt="Pages Image" src="https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,pycharm,python,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn&theme=light" width="312px"/>
+  </picture>
+</div>
 
 `_blogpost.lastupdate`
 
