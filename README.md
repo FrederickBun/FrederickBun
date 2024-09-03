@@ -40,7 +40,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 `_blogpost.lastupdate`
 
 > [!TIP]
-> The recommend post of [Buntalk(zh-CN)](https://setbun.com)
+> The recommend post of [Buntalk(zh-CN)](https://blog.setbun.com)
 >
 > [Take a look at this first?](POSTRECOMMEND.md)
 
