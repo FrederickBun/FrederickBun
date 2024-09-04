@@ -35,7 +35,7 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 `_personal.skills`
 
-[![skills](https://skillicons.dev/icons?i=apple,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn)](https://github.com/FrederickBun?tab=achievements)
+[![skills](https://skillicons.dev/icons?i=apple,astro,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn)](https://github.com/FrederickBun?tab=achievements)
 
 `_blogpost.lastupdate`
 
