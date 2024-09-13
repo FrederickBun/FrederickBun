@@ -37,6 +37,23 @@ Hello there👋, my name is **Frederick Chen**. I'm an high school student based
 
 [![skills](https://skillicons.dev/icons?i=apple,astro,aws,bash,cpp,cloudflare,css,discord,docker,dotnet,git,github,githubactions,gmail,html,js,kali,latex,linux,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,powershell,sublime,twitter,ts,ubuntu,visualstudio,vite,vscode,webstorm,workers,yarn)](https://github.com/FrederickBun?tab=achievements)
 
+```plaintext
+
+ ______     ______     _____     ______                                                
+/\  ___\   /\  __ \   /\  __-.  /\  ___\                                               
+\ \ \____  \ \ \/\ \  \ \ \/\ \ \ \  __\                                               
+ \ \_____\  \ \_____\  \ \____-  \ \_____\                                             
+  \/_____/   \/_____/   \/____/   \/_____/                                             
+                                                                                       
+ ______     ______   ______     __   __     ______     ______     ______     ______    
+/\  __ \   /\  == \ /\  ___\   /\ "-.\ \   /\  ___\   /\  __ \   /\  ___\   /\  ___\   
+\ \ \/\ \  \ \  _-/ \ \  __\   \ \ \-.  \  \ \___  \  \ \ \/\ \  \ \ \____  \ \  __\   
+ \ \_____\  \ \_\    \ \_____\  \ \_\\"\_\  \/\_____\  \ \_____\  \ \_____\  \ \_____\ 
+  \/_____/   \/_/     \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
+                                                                                       
+
+```
+
 `_blogpost.lastupdate`
 
 > [!TIP]
