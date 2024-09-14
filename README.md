@@ -11,8 +11,6 @@
   </samp>
 </div>
 
----
-
 ## Hi there 👋
 
 I'm **Frederick Chen**, Welcome to my GitHub profile!
