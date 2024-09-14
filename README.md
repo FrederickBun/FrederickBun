@@ -8,6 +8,7 @@
     <a href="https://blog.setbun.com">blog</a> .
     GitHub .
     <a href="https://t.me/setbungroup">telegram-group</a>
+    <a href="https://twitter.com/FrederickAsYou">x(twitter)</a>
   </samp>
 </div>
 
