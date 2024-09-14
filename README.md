@@ -12,7 +12,7 @@
   </samp>
 </div>
 
-## Hi there 👋
+## Hi there :wave:
 
 I'm **Frederick Chen**, Welcome to my GitHub profile!
 
