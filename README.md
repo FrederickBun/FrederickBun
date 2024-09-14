@@ -1,8 +1,13 @@
 <div align="center">
+  <a href="https://buneye.instatus.com/zh">
+    <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
+  </a>
+  <br />
   <samp>
     <a href="https://www.setbun.com">home</a> .
     <a href="https://blog.setbun.com">blog</a> .
-    GitHub
+    GitHub .
+    <a href="https://t.me/setbungroup">telegram group</a>
   </samp>
 </div>
 
