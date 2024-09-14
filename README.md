@@ -19,7 +19,7 @@ I'm **Frederick Chen**, Welcome to my GitHub profile!
 - :telescope: I like to explore new things
 - :seedling: Green planet is my favorite
 - :speech_balloon: Speaking Chinese & English
-- :sparkling_heart: Cat🐱 & Minecraft Game
+- :sparkling_heart: Cat:cat2: & Minecraft Game
 
 #### ✨ Who am I?
 
