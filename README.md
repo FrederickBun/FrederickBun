@@ -5,7 +5,7 @@ I'm **Frederick Chen**, Welcome to my GitHub profile!
 - 🔭 I like to explore new things
 - 🌱 Green planet is my favorite
 - 💬 Speaking Chinese & English
-- 💖 Cat & Minecraft Game
+- 💖 Cat🐱 & Minecraft Game
 
 **✨ Who am I?**
 
