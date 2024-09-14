@@ -2,6 +2,7 @@
   <samp>
     <a href="https://www.setbun.com">home</a> .
     <a href="https://blog.setbun.com">blog</a> .
+    GitHub
   </samp>
 </div>
 
