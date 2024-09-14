@@ -7,10 +7,7 @@ I'm **Frederick Chen**, Welcome to my GitHub profile!
 - 💬 Chinese & English
 - 💖 Cat & Minecraft Game
 
-**📚 Latest Blog Posts**
-
-> [!IMPORTANT]
-> These blogs are all from [[〔龙窝〕博客(zh_CN)](https://blog.setbun.com/)]
+**📚 Latest Blog Posts (zh_CN)**
 
 <!-- BLOG-POST-LIST:START -->
 - [「随笔」 云盘太重要了](https://blog.setbun.com/p/20240828.html)
