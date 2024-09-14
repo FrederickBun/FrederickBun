@@ -27,7 +27,7 @@ I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wi
 
 ---
 
-### 📖 Latest Blog Posts (zh_CN)
+### :book: Latest Blog Posts (zh_CN)
 
 <!-- BLOG-POST-LIST:START -->
 - [「随笔」 云盘太重要了](https://blog.setbun.com/p/20240828.html)
