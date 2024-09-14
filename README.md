@@ -14,7 +14,7 @@
 
 ## Hi there :wave:
 
-I'm **Frederick Chen**, Welcome to my GitHub profile!
+I'm *Frederick Chen*, Welcome to my GitHub profile!
 
 - :telescope: I like to explore new things
 - :seedling: Green planet is my favorite
