@@ -1,3 +1,12 @@
+<div align="center">
+  <samp>
+    <a href="https://www.setbun.com">home</a> .
+    <a href="https://blog.setbun.com">blog</a> .
+  </samp>
+</div>
+
+---
+
 ## Hi there 👋
 
 I'm **Frederick Chen**, Welcome to my GitHub profile!
