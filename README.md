@@ -36,3 +36,8 @@ I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wi
 - [FlowUs - 记笔记？计划日程？个人工作台？](https://blog.setbun.com/p/20240807.html)
 - [「题解」 『FLA - I』冲云霄](https://blog.setbun.com/p/20240803.html)
 <!-- BLOG-POST-LIST:END -->
+
+#### :hammer: Projects Talking
+
+> [!NOTE]
+> Writing
