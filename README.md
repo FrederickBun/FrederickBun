@@ -48,3 +48,22 @@ I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wi
  - [x] [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
 
 If you are willing to support these projects, please give a *Star*, thank you!
+
+Of course, if you can, you are welcome to [sponsor me](DONATE.md)! Let's
+
+```
+
+ ______     ______   ______     __   __     ______     ______     __  __     ______     ______     ______    
+/\  __ \   /\  == \ /\  ___\   /\ "-.\ \   /\  ___\   /\  __ \   /\ \/\ \   /\  == \   /\  ___\   /\  ___\   
+\ \ \/\ \  \ \  _-/ \ \  __\   \ \ \-.  \  \ \___  \  \ \ \/\ \  \ \ \_\ \  \ \  __<   \ \ \____  \ \  __\   
+ \ \_____\  \ \_\    \ \_____\  \ \_\\"\_\  \/\_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\ 
+  \/_____/   \/_/     \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_____/   \/_/ /_/   \/_____/   \/_____/ 
+                                                                                                             
+ ______     __  __     ______        __         ______     __   __   ______                                  
+/\  __ \   /\ \/\ \   /\  == \      /\ \       /\  __ \   /\ \ / /  /\  ___\                                 
+\ \ \/\ \  \ \ \_\ \  \ \  __<      \ \ \____  \ \ \/\ \  \ \ \'/   \ \  __\                                 
+ \ \_____\  \ \_____\  \ \_\ \_\     \ \_____\  \ \_____\  \ \__|    \ \_____\                               
+  \/_____/   \/_____/   \/_/ /_/      \/_____/   \/_____/   \/_/      \/_____/                               
+                                                                                                             
+
+```
