@@ -100,4 +100,3 @@ Of course, if you can, you are welcome to [sponsor me](DONATE.md)! Let's
     </picture>
   </div>
 </details>
-
