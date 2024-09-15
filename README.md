@@ -37,7 +37,14 @@ I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wi
 - [「题解」 『FLA - I』冲云霄](https://blog.setbun.com/p/20240803.html)
 <!-- BLOG-POST-LIST:END -->
 
-#### :hammer: Projects Talking
+#### :hammer: Opensource Libruary
 
-> [!NOTE]
-> Writing
+###### Major project: 
+
+ - [Pixel-Chat](https://github.com/alignpixel/pixel-chat-app): A simple, server-deployable instant chat tool. Powered by Python
+
+###### Cooperative project: 
+
+ - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
+
+If you are willing to support these projects, please give a Star, thank you!
