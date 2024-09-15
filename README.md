@@ -12,6 +12,10 @@
   </samp>
 </div>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## Hi there :wave:
 
 I'm *Frederick Chen*, Welcome to my GitHub profile!
@@ -69,7 +73,7 @@ Of course, if you can, you are welcome to [sponsor me](DONATE.md)! Let's
 ```
 
 <details>
-  <summary><b>:octocat: GitHub Stats</b></summary>
+  <summary><b>:octocat: My GitHub Stats</b></summary>
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn&show_icons=true" />
@@ -90,3 +94,4 @@ Of course, if you can, you are welcome to [sponsor me](DONATE.md)! Let's
     </picture>
   </div>
 </details>
+
