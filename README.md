@@ -47,4 +47,4 @@ I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wi
 
  - [x] [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
 
-If you are willing to support these projects, please give a Star, thank you!
+If you are willing to support these projects, please give a *Star*, thank you!
