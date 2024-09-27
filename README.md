@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://buneye.instatus.com/zh">
+  <a href="https://status.setbun.com/">
     <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/SetBun-Logo-Candy%402x%5BWebkit%5D-20240917-1726544923725-c72c1234b6f6dd52.svg" width="300px" />
     <br>
     <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
