@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     51 mins         █████████████████████▒░░░   85.44 %
+Astro   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
