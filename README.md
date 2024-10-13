@@ -46,11 +46,11 @@ I'm an high school student based in China🇨🇳, Focus on [NOIP](https://zh.wi
 #### :book: Latest Blog Posts (zh_CN)
 
 <!-- BLOG-POST-LIST:START -->
+- [险过 CSP-J 2024 心路历程](https://blog.setbun.com/p/20241005.html)
 - [CSP-J 2024 总结](https://blog.setbun.com/p/20240921.html)
 - [「随笔」 云盘太重要了](https://blog.setbun.com/p/20240828.html)
 - [推荐几个适用于竞赛的 C++ 模板库](https://blog.setbun.com/p/20240820.html)
 - [新加坡与印度尼西亚九日游记](https://blog.setbun.com/p/20240819.html)
-- [「题解」 『FLA - I』冲云霄](https://blog.setbun.com/p/20240803.html)
 <!-- BLOG-POST-LIST:END -->
 
 #### :hammer: Opensource Libruary
