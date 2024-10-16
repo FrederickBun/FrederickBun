@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript    2 mins          ███████████▓░░░░░░░░░░░░░   46.39 %
+Astro         2 mins          ██████████░░░░░░░░░░░░░░░   39.74 %
+Image (svg)   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Markdown      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
