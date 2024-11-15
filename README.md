@@ -6,8 +6,7 @@
   </a>
   <br />
   <samp>
-    <a href="https://www.setbun.com">home</a> .
-    <a href="https://blog.setbun.com">blog</a> .
+    <a href="https://www.setbun.com">home&blog</a> .
     <b>GitHub</b> .
     <a href="https://t.me/setbungroup">telegram-group</a> .
     <a href="https://twitter.com/FrederickAsYou">x(twitter)</a>
