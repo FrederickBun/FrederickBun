@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
+  [![X(Twitter)](https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X)](https://twitter.com/FrederickAsYou) [![Youtube](https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube)](https://www.youtube.com/@justcodelife17) [![Facebook](https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook)](https://www.facebook.com/FrederickAsYou) ![Static Badge](https://img.shields.io/badge/Mastodon-%40bundragon%40fairy.id-purple?logo=mastodon&logoColor=white)
 </div>
 
 ```js
@@ -15,8 +16,6 @@ I'm studying in [**High School Affiliated to Southwest University**](http://xndx
 If you want to know more about me, please visit [my blog](https://www.setbun.com)(简体中文) or [my portfolio](https://frederication.work)(English). To contact me, you can send email at [i@setbun.com](mailto:i@setbun.com)
 
 :balloon:Have a nice day~
-
-[![X(Twitter)](https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X)](https://twitter.com/FrederickAsYou) [![Youtube](https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube)](https://www.youtube.com/@justcodelife17) [![Facebook](https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook)](https://www.facebook.com/FrederickAsYou) ![Static Badge](https://img.shields.io/badge/Mastodon-%40bundragon%40fairy.id-purple?logo=mastodon&logoColor=white)
 
 #### :book: Latest blog posts
 
