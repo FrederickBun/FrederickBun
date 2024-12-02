@@ -2,7 +2,7 @@
 console.log("Hey there");
 ```
 
-## Nice to meet you!:wave:
+## Nice to meet you! :wave:
 
 I'm a student from **Chongqing, China**. My full name is **Frederick Chen**, so you can call me *BunDragon* or *Frederick* on social media.
 
