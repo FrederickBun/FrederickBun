@@ -22,7 +22,7 @@ I'm a student from **Chongqing, China**. My full name is **Frederick Chen**, so 
 
 I'm studying in [**High School Affiliated to Southwest University**](http://xndxfz.swu.edu.cn/). Focus on [NOIP](https://zh.wikipedia.org/wiki/全国青少年信息学奥林匹克联赛). In my spare time, I'll write some interesting blog posts and some interesting projects. It's so fun! By the way, I'm also code with my friends.
 
-If you want to know more about me, please visit [my blog](https://www.setbun.com)(简体中文) or [my portfolio](https://frederication.work)(English). To contact me, you can send email at [i@setbun.com](mailto:i@setbun.com)
+If you want to know more about me, please visit [my blog](https://www.setbun.com)(简体中文) or [my portfolio](https://frederication.work)(English). To contact me, you can send email at [seventeen@ohdragonboi.cn](mailto:seventeen@ohdragonboi.cn)
 
 :balloon:Have a nice day~
 
