@@ -28,6 +28,12 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 
 <!--START_SECTION:waka-->
 
+```txt
+YAML   1 hr 10 mins    ██████████████▓░░░░░░░░░░   58.59 %
+C++    49 mins         ██████████▒░░░░░░░░░░░░░░   41.40 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
