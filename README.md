@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
+  <br />
   <a href="https://twitter.com/FrederickAsYou"><img src="https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X"></img></a>
   <a href="https://www.youtube.com/@justcodelife17"><img src="https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube"></img></a>
   <a href="https://www.facebook.com/FrederickAsYou"><img src="https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook"></img></a>
