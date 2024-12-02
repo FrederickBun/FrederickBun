@@ -38,4 +38,5 @@ HTML   0 secs          ░░░░░░░░░░░░░░░░░░░
 
 - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
 
-![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
+![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)
+![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
