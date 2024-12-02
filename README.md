@@ -1,105 +1,28 @@
-<div align="center">
-  <a href="https://status.setbun.com/">
-    <img src="https://cdn.jsdelivr.net/gh/FrederickBun/upyun-rhimgcdn@img/upload/SetBun-Logo-Candy%402x%5BWebkit%5D-20240917-1726544923725-c72c1234b6f6dd52.svg" width="300px" />
-    <br>
-    <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
-  </a>
-  <br />
-  <samp>
-    <a href="https://www.setbun.com">home&blog</a> .
-    <b>GitHub</b> .
-    <a href="https://t.me/setbungroup">telegram-group</a> .
-    <a href="https://twitter.com/FrederickAsYou">x(twitter)</a>
-  </samp>
-</div>
+```js
+console.log("Hey there");
+```
 
-<br>
+## Nice to meet you!:wave:
+
+I'm a student from **Chongqing, China**. My full name is **Frederick Chen**, so you can call me *BunDragon* or *Frederick* on social media.
+
+I'm studying in [**High School Affiliated to Southwest University**](http://xndxfz.swu.edu.cn/). Focus on [NOIP](https://zh.wikipedia.org/wiki/全国青少年信息学奥林匹克联赛). In my spare time, I'll write some interesting blog posts and some interesting projects. It's so fun! By the way, I'm also code with my friends.
+
+If you want to know more about me, please visit [my blog](https://www.setbun.com)(简体中文) or [my portfolio](https://frederication.work)(English). To contact me, you can send email at [i@setbun.com](mailto:i@setbun.com)
+
+:balloon:Have a nice day~
+
+[![X(Twitter)](https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X)](https://twitter.com/FrederickAsYou) [![Youtube](https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube)](https://www.youtube.com/@justcodelife17) [![Facebook](https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook)](https://www.facebook.com/FrederickAsYou) ![Static Badge](https://img.shields.io/badge/Mastodon-%40bundragon%40fairy.id-purple?logo=mastodon&logoColor=white)
+
+#### :book: Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+#### :hammer: Opensource
 
 <!--START_SECTION:waka-->
 
-```txt
-YAML   1 hr 10 mins    ██████████████▓░░░░░░░░░░   58.59 %
-C++    49 mins         ██████████▒░░░░░░░░░░░░░░   41.40 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 
-## Hi there :wave:
-
-I'm *Frederick Chen*, Welcome to my GitHub profile!
-
-- :telescope: I like to explore new things
-- :seedling: Green planet is my favorite
-- :speech_balloon: Speaking Chinese & English
-- :sparkling_heart: Cat:cat2: & Minecraft Game
-
-#### :sparkles: Who am I?
-
-I'm an high school student based in China :cn: , Focus on [NOIP](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%81%94%E8%B5%9B). I'm also anront-end/full-stack developer. In my spare time, I'll make some interesting project for everybody. By the way, I'm also one of the cofounders of [@AlignPixel](https://github.com/AlignPixel)!
-
----
-
-#### :book: Latest Blog Posts (zh_CN)
-
-<!-- BLOG-POST-LIST:START -->
-- [险过 CSP-J 2024 心路历程](https://blog.setbun.com/p/20241005.html)
-- [CSP-J 2024 总结](https://blog.setbun.com/p/20240921.html)
-- [「随笔」 云盘太重要了](https://blog.setbun.com/p/20240828.html)
-- [推荐几个适用于竞赛的 C++ 模板库](https://blog.setbun.com/p/20240820.html)
-- [新加坡与印度尼西亚九日游记](https://blog.setbun.com/p/20240819.html)
-<!-- BLOG-POST-LIST:END -->
-
-#### :hammer: Opensource Libruary
-
-###### Major project: 
-
- - [x] [Pixel-Chat](https://github.com/alignpixel/pixel-chat-app): A simple, server-deployable instant chat tool. Powered by Python
-
-###### Cooperative project: 
-
- - [x] [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
-
-If you are willing to support these projects, please give a *Star*, thank you!
-
-Of course, if you can, you are welcome to [sponsor me](DONATE.md)! Let's
-
-```
-
- ______     ______   ______     __   __                                        
-/\  __ \   /\  == \ /\  ___\   /\ "-.\ \                                       
-\ \ \/\ \  \ \  _-/ \ \  __\   \ \ \-.  \                                      
- \ \_____\  \ \_\    \ \_____\  \ \_\\"\_\                                     
-  \/_____/   \/_/     \/_____/   \/_/ \/_/                                     
-                                                                               
- ______     __  __     ______        __         ______     __   __   ______    
-/\  __ \   /\ \/\ \   /\  == \      /\ \       /\  __ \   /\ \ / /  /\  ___\   
-\ \ \/\ \  \ \ \_\ \  \ \  __<      \ \ \____  \ \ \/\ \  \ \ \'/   \ \  __\   
- \ \_____\  \ \_____\  \ \_\ \_\     \ \_____\  \ \_____\  \ \__|    \ \_____\ 
-  \/_____/   \/_____/   \/_/ /_/      \/_____/   \/_____/   \/_/      \/_____/ 
-                                                                               
-
-```
-
-<details>
-  <summary><b>:octocat: My GitHub Stats</b></summary>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn&show_icons=true&theme=flag-india" />
-      <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api?username=FrederickBun&layout=compact&hide_border=true&locale=cn&show_icons=true&theme=flag-india" width="312px"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&theme=gruvbox&hide_border=true&locale=cn" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn&theme=flag-india" />
-      <img alt="Pages Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickBun&layout=compact&hide_border=true&locale=cn&theme=flag-india" width="237px"/>
-    </picture>
-    <br>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&theme=kimbie_dark&no-frame=true&column=4" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&no-frame=true&column=4" />
-      <img alt="Pages Image" src="https://github-profile-trophy.vercel.app/?username=FrederickBun&column=6&margin-w=15&margin-h=15&no-frame=true&&column=4" />
-    </picture>
-  </div>
-</details>
+- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
