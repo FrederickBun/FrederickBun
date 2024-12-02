@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
+  <a href="https://twitter.com/FrederickAsYou"><img src="https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X"></img></a>
+  <a href="https://www.youtube.com/@justcodelife17"><img src="https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube"></img></a>
+  <a href="https://www.facebook.com/FrederickAsYou"><img src="https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook"></img></a>
+  <a href="https://fairy.id/@bundragon"><img src="https://img.shields.io/badge/Mastodon-%40bundragon%40fairy.id-purple?logo=mastodon&logoColor=white"></img></a>
 </div>
-
-[![X(Twitter)](https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X)](https://twitter.com/FrederickAsYou) [![Youtube](https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube)](https://www.youtube.com/@justcodelife17) [![Facebook](https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook)](https://www.facebook.com/FrederickAsYou) ![Static Badge](https://img.shields.io/badge/Mastodon-%40bundragon%40fairy.id-purple?logo=mastodon&logoColor=white)
 
 <br />
 
