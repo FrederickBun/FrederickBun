@@ -41,11 +41,10 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     1 hr 38 mins    ███████████▓░░░░░░░░░░░░░   46.64 %
-Python   1 hr            ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-C++      49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.47 %
-JSON     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML     1 hr 15 mins    ███████████░░░░░░░░░░░░░░   44.03 %
+Python   1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   40.21 %
+C++      24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+JSON     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
