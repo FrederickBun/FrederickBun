@@ -41,8 +41,7 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python   36 mins         ███████████████████████▒░   93.36 %
-HTML     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Python   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
