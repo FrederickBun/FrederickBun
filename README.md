@@ -38,6 +38,13 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 
 #### :hammer: Opensource
 
+- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
+
+![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)
+![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
+
+#### :abc: Code Stats
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -46,8 +53,3 @@ Python   3 mins          █████▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
-
-![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)
-![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
