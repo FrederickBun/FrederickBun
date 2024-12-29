@@ -45,10 +45,11 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 <!--START_SECTION:waka-->
 
 ```txt
-Other         1 hr 43 mins    ████████████████████░░░░░   79.41 %
-C++           26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other            1 hr 45 mins    ████████████▓░░░░░░░░░░░░   51.23 %
+C++              1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+YAML             26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Python           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
